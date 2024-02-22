@@ -42,7 +42,7 @@ For detailed examples on how to use this module, please refer to the [Examples](
 Your Name Replace **MIT** and **sureshyadav76** with the appropriate license and your information. Feel free to expand this README with additional details or usage instructions as needed for your specific use case.
 
 ## License
-This project is licensed under the **MIT** License - see the [LICENSE](https://github.com/sureshyadav76/terraform-google-subnet/blob/master/LICENSE) file for details.
+This project is licensed under the **MIT** License - see the [LICENSE](..) file for details.
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
@@ -62,7 +62,7 @@ This project is licensed under the **MIT** License - see the [LICENSE](https://g
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_labels"></a> [labels](#module\_labels) | sureshyadav76/labels/google | 1.0.1 |
+| <a name="module_labels"></a> [labels](#module\_labels) | git::https://github.com/sureshyadav76/terraform-google-labels.git | v1.0.0 |
 
 ## Resources
 
